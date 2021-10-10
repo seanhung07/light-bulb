@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/light-bulb/static/css/main.1e0abdde.chunk.css",
+    "main.js": "/light-bulb/static/js/main.5a242ce6.chunk.js",
+    "main.js.map": "/light-bulb/static/js/main.5a242ce6.chunk.js.map",
+    "runtime-main.js": "/light-bulb/static/js/runtime-main.b7bc80e7.js",
+    "runtime-main.js.map": "/light-bulb/static/js/runtime-main.b7bc80e7.js.map",
+    "static/js/2.9d50837c.chunk.js": "/light-bulb/static/js/2.9d50837c.chunk.js",
+    "static/js/2.9d50837c.chunk.js.map": "/light-bulb/static/js/2.9d50837c.chunk.js.map",
+    "static/js/3.7c8d5923.chunk.js": "/light-bulb/static/js/3.7c8d5923.chunk.js",
+    "static/js/3.7c8d5923.chunk.js.map": "/light-bulb/static/js/3.7c8d5923.chunk.js.map",
+    "index.html": "/light-bulb/index.html",
+    "static/css/main.1e0abdde.chunk.css.map": "/light-bulb/static/css/main.1e0abdde.chunk.css.map",
+    "static/js/2.9d50837c.chunk.js.LICENSE.txt": "/light-bulb/static/js/2.9d50837c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/light-bulb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7bc80e7.js",
+    "static/js/2.9d50837c.chunk.js",
+    "static/css/main.1e0abdde.chunk.css",
+    "static/js/main.5a242ce6.chunk.js"
+  ]
+}
